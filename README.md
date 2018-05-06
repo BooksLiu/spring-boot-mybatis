@@ -17,4 +17,4 @@
 
 3、Send request to localhost:8080/addUser interface,the params are username=xxx&password=xxx,and return value is true,that means everything is ok
 
-**You can create issue if you have any question**
+**You can create an issue if you have any question**
