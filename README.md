@@ -13,7 +13,7 @@
 
 1、You just need replace `application.yml`'s mysql config with yours
 
-2、Execution the default.sql file in mysql(ensure database don't have the table name with user)
+2、Execution the default.sql file in mysql(ensure database don't have the table name is user)
 
 3、Send request to localhost:8080/addUser interface,the params are username=xxx&password=xxx,and return value is true,that means everything is ok
 
